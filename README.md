@@ -4,7 +4,7 @@ This is a meditation app created with flutter by following an own Figma design.
 \
 The app is called #WENEEDTOCHILL.
 
-![Figma Design](assets/img/design.png)
+![Figma Design](images/design.png)
 
 ## Using this project
 
